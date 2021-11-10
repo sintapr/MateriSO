@@ -1,5 +1,8 @@
 Daftar materi sistem operasi yang akan dipelajari 
 Kelas C
 Prodi sistem Operasi, yaitu:
-- Komponen Komputer 
+- Komponen Komputer
+
+- Konsep Sistem Operasi 
+
 
